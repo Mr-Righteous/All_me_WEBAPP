@@ -1,7 +1,10 @@
 body {
   background-color: grey;
 }
-
+#firstdaypar {
+  color: cyan;
+  background-color: cream;
+}
 p {
   color: red;
 }
